@@ -12,5 +12,26 @@
     "title": "GISProject",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nWelcome to our GIS Project web site!"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is"
+  },
+  {
+    "objectID": "intro.html#project-tasks",
+    "href": "intro.html#project-tasks",
+    "title": "Introduction",
+    "section": "Project tasks",
+    "text": "Project tasks\nThe project tasks are as follows:\n\nto compile the necessary data\nto derive new data sets"
+  },
+  {
+    "objectID": "intro.html#the-data",
+    "href": "intro.html#the-data",
+    "title": "Introduction",
+    "section": "The Data",
+    "text": "The Data\nThe following data sets will be used:"
   }
 ]
